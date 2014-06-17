@@ -1,0 +1,23 @@
+{
+  "name": "ecom-grunt-build",
+  "version": "0.0.0",
+  "description": "build ecom project using grunt",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/acesky/ecom-grunt-build.git"
+  },
+  "keywords": [
+    "grunt",
+    "ecom",
+    "build"
+  ],
+  "author": "skyline, acecode",
+  "license": "Apache",
+  "bugs": {
+    "url": "https://github.com/acesky/ecom-grunt-build/issues"
+  },
+  "homepage": "https://github.com/acesky/ecom-grunt-build"
+}
